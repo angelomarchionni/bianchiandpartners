@@ -79,7 +79,5 @@
             <a href="https://goo.gl/maps/ENTe8P9wSzW5s7jNA">Clicca per la Mappa</a>
           </p>
         </div>
-        <div>
-          <img src="./immagini/office.jpg" alt="ufficioAndrea" width="500" height="600"> 
-        </div>
+       
       </div>

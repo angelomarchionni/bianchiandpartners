@@ -61,11 +61,17 @@
     if ($_SESSION['lang']=='it')
     {
         ?>
-<p class="text-sm-left"><h5>Bianchi & Partners consulenza ed assistenza aziendale, tributaria, societaria, del lavoro, legale, fiscale a Praha</h5></p>
+
+<div class="jumbotron">
+  <h4 class="display-9">Bianchi and Partners</h4>
+  <hr class="my-2">
+  <p>Bianchi & Partners consulenza ed assistenza aziendale, tributaria, societaria, del lavoro, legale, fiscale a Praga</p>
+  
+</div>
 <picture>
-  <source srcset="./immagini/office_originale_1.png" media="(max-width: 400px)">
-  <source srcset="./immagini/office_originale_1.png">
-  <img src="./immagini/office_originale_1.png" alt="Ufficio">
+  <source srcset="./immagini/office_originale_2.png" media="(max-width: 400px)">
+  <source srcset="./immagini/office_originale_2.png">
+  <img src="./immagini/office_originale_2.png" alt="Ufficio">
 </picture> 
 
  <?php 
@@ -73,7 +79,23 @@
     else
     {
         ?>
-   <p class="text-sm-left"><h5>      Bianchi & Partners obchodní, daňové, podnikové, pracovní, právní a fiskální poradenství a pomoc </h5></p>
+   <p class="text-sm-left"><h5>       </h5></p>
+        
+   <div class="jumbotron">
+  <h4 class="display-9">Bianchi and Partners</h4>
+  <hr class="my-2">
+  <p>Bianchi & Partners obchodní, daňové, podnikové, pracovní, právní a fiskální poradenství a pomoc</p>
+  
+</div>
+<picture>
+  <source srcset="./immagini/office_originale_2.png" media="(max-width: 400px)">
+  <source srcset="./immagini/office_originale_2.png">
+  <img src="./immagini/office_originale_2.png" alt="Ufficio">
+</picture> 
+    
+        
+        
+        
         <?php 
     }
     
