@@ -8,5 +8,9 @@
 </style>
 
 <div class="container">
-    <h3>SERVIZI in ceco</h3>
+<picture>
+  <source srcset="./immagini/orarioUfficioAndreaCE.jpg" media="(max-width: 400px)">
+  <source srcset="./immagini/orarioUfficioAndreaCE.jpg">
+  <img src="./immagini/orarioUfficioAndreaCE.jpg" alt="orario">
+</picture> 
 </div>

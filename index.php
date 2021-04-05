@@ -48,6 +48,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="#" onclick="show_div('sudinoi');"><?php echo $lang['sudinoi'] ?></a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#" onclick="show_div('orari');"><?php echo $lang['orari'] ?></a>
+            </li>
         </ul>
     </nav>
     <div class="container" style="margin-top: 30px;" style="margin-left: 30px; !important;">
@@ -111,18 +114,56 @@
 
 
 
-
-
-
-
-
-
-
-
 <div id="servizi" style="display: none;">
 
 
-<?php include 'servizi.php'; ?>
+<?php if ($_SESSION['lang']=='it')
+    {
+        //include 'servizi.php';
+    }
+    else
+    {
+        //include 'serviziCE.php';
+    } ?>
+
+
+
+
+</div>
+
+<div id="sudinoi" style="display: none;">
+
+     <?php 
+    
+    
+   
+    if ($_SESSION['lang']=='it')
+    {
+        include 'sudinoi.php';
+    }
+    else
+    {
+        include 'sudinoiCE.php';
+    }
+    
+    ?>
+
+</div>
+
+
+
+
+<div id="orari" style="display: none;">
+
+
+<?php if ($_SESSION['lang']=='it')
+    {
+        include 'orari.php';
+    }
+    else
+    {
+        include 'orariCE.php';
+    } ?>
 
 
 
@@ -144,20 +185,12 @@
     
     ?>
 
-
-
-
-
-
-
 </div>
-<div id="sudinoi" style="display: none;">
-    Test Data4 <?php echo $_SESSION['lang'] ?>
-</div>
+
 
 
     
-    </div>
+   </div>
 
     <div class="footer bg-dark">
         <a href="index.php?lang=it"><?php echo $lang['lang_it'] ?><img alt="Qries" src="./immagini/flagofitaly.png"
@@ -182,6 +215,8 @@ function show_div(toShow)
         document.getElementById('servizi').style.display = 'none';
         document.getElementById('contact').style.display = 'none';
         document.getElementById('sudinoi').style.display = 'none';
+        document.getElementById('orari').style.display = 'none';
+        // alert(toShow);
         var show = document.getElementById(toShow);
         show.style.display = "";
     }
