@@ -8,11 +8,17 @@
 </style>
 
 <div class="container">
-   
+<div class="row">
+<div class="col-lg-8">
+Společnost Bianchi & Partners vznikla v roce 1995 v Praze z iniciativy společníků firmy Gruppo Dracma. Primární činností společnosti je poskytování služeb v oblasti podnikání, účetnictví, daní, mezd a personalistiky se zaměřením na italské investory, kteří podnikají nebo chtějí podnikat v České republice. Podnikatel potřebuje pro rozvoj své činnosti nelézt tu správnou podporu ve formě profesionálních partnerů a vhodných kontaktů, jež umožní spolupráci s místními podniky, potřebuje též pomoc při výběru zástupců či dodavatelů, tlumočníků a profesionálních odborníků, ale především potřebuje někoho, kdo ví, co je třeba a představí mu vlastní trh, kulturu, zvyky dané země. Zkráceně můžeme říci, že pro růst činnosti podniku v zahraničí potřebuje podnikatel italské zázemí v zemi, ve které se nachází. Rodinné zázemí, kde jsou lidé, kteří po italsku myslí, kteří vědí vše o potřebách italského podnikatele, ale zároveň jsou zcela sžiti s místním prostředím, znají místní mentalitu, příležitosti, zákony a tradice. Tito lidé mohou vytvářet pomyslný převodní most mezi dvěma realitami. Společnost Bianchi &Partners tvoří tým s bohatými zkušenostmi, především na mezinárodní úrovni s výbornou znalostí země, ve které pracují a tudíž schopni nabídnout efektivní a užitečnou pomoc jak subjektům vstupujícím na trh, tak i těm, kteří se již na daném trhu pohybují. Studio má k dispozici personál, jež hovoří oběma jazyky a má dlouhodobé zkušenosti v různých oborech. Zdejší pracovníci se neustále se školí, aby byli připraveni zvládat rychlé změny v legislativě a uspokojit jakoukoliv potřebu svých klientů . 
 
-    Společnost Bianchi & Partners vznikla v roce 1995 v Praze z iniciativy společníků firmy Gruppo Dracma. Primární činností společnosti je poskytování služeb v oblasti podnikání, účetnictví, daní, mezd a personalistiky se zaměřením na italské investory, kteří podnikají nebo chtějí podnikat v České republice. Podnikatel potřebuje pro rozvoj své činnosti nelézt tu správnou podporu ve formě profesionálních partnerů a vhodných kontaktů, jež umožní spolupráci s místními podniky, potřebuje též pomoc při výběru zástupců či dodavatelů, tlumočníků a profesionálních odborníků, ale především potřebuje někoho, kdo ví, co je třeba a představí mu vlastní trh, kulturu, zvyky dané země. Zkráceně můžeme říci, že pro růst činnosti podniku v zahraničí potřebuje podnikatel italské zázemí v zemi, ve které se nachází. Rodinné zázemí, kde jsou lidé, kteří po italsku myslí, kteří vědí vše o potřebách italského podnikatele, ale zároveň jsou zcela sžiti s místním prostředím, znají místní mentalitu, příležitosti, zákony a tradice. Tito lidé mohou vytvářet pomyslný převodní most mezi dvěma realitami. Společnost Bianchi &Partners tvoří tým s bohatými zkušenostmi, především na mezinárodní úrovni s výbornou znalostí země, ve které pracují a tudíž schopni nabídnout efektivní a užitečnou pomoc jak subjektům vstupujícím na trh, tak i těm, kteří se již na daném trhu pohybují. Studio má k dispozici personál, jež hovoří oběma jazyky a má dlouhodobé zkušenosti v různých oborech. Zdejší pracovníci se neustále se školí, aby byli připraveni zvládat rychlé změny v legislativě a uspokojit jakoukoliv potřebu svých klientů . 
-
-
-
+</div>
+<div class="col-lg-4">
+  <source srcset="./immagini/ambasciata.png" media="(max-width: 400px)">
+  <source srcset="./immagini/ambasciata.png">
+  <img src="./immagini/ambasciata.png" alt="ambasciata">
+</picture> 
+</div>
+</div>
 
 </div>

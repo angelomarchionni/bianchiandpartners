@@ -8,38 +8,43 @@
 </style>
 
 <div class="container">
+<div class="jumbotron">
     <h3>Servizi Offerti</h3>
+    <ul>
 <div class="row">
-<div class="col-lg-4">  <strong>Servizi Contabili </strong>
-<div class="col-lg-4">  <strong>Assistenza affidamenti e mutui bancari </strong><br />    
+
+<div class="col-lg-4"> <li> <strong>Servizi Contabili </strong> </div>
+<div class="col-lg-4"> <li> <strong>Assistenza affidamenti e mutui bancari</strong> </div> 
 
 </div>
 <div class="row">
-<div class="col-lg-4">  <strong>Servizi Amministrativi </strong>
-<div class="col-lg-4">  <strong>Valutazioni aziendali </strong><br />    
-
-</div>
-
-<div class="row">
-<div class="col-lg-4">  <strong>Consulenza e Assistenza Fiscale</strong>
-<div class="col-lg-4">  <strong>Revisioni contabili </strong><br />    
+<div class="col-lg-4"><li>  <strong>Servizi Amministrativi </strong></div>
+<div class="col-lg-4"> <li> <strong>Valutazioni aziendali </strong><br />  </div>  
 
 </div>
 
 <div class="row">
-<div class="col-lg-4">  <strong>Consulenza societaria</strong>
-<div class="col-lg-4">  <strong>Assistenza contrattuale</strong><br />    
+<div class="col-lg-4"><li>  <strong>Consulenza e Assistenza Fiscale</strong> </div>
+<div class="col-lg-4"> <li> <strong>Revisioni contabili </strong><br />  </div>  
+
+</div>
+
+<div class="row">
+<div class="col-lg-4"><li>  <strong>Consulenza societaria</strong></div>
+<div class="col-lg-4">  <li><strong>Assistenza contrattuale</strong><br />    </div>
 
 </div>
 <div class="row">
-<div class="col-lg-4">  <strong>Piani, procedure ed adempimenti contabili</strong>
-<div class="col-lg-4">  <strong>Traduzioni</strong><br />    
+<div class="col-lg-4"> <li> <strong>Piani, procedure ed adempimenti contabili</strong></div>
+<div class="col-lg-4"> <li> <strong>Traduzioni</strong><br />  </div>  
 
 </div>
 <div class="row">
-<div class="col-lg-4">  <strong>Costituzione e variazioni di società</strong>
-<div class="col-lg-4">  <strong></strong><br />    
+<div class="col-lg-4"> <li> <strong>Costituzione e variazioni di società</strong></div>
+<div class="col-lg-4">  <strong></strong><br />    </div>
 
+</div>
+</div>
 </div>
 
 

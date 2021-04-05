@@ -119,11 +119,11 @@
 
 <?php if ($_SESSION['lang']=='it')
     {
-        //include 'servizi.php';
+         include 'servizi.php';
     }
     else
     {
-        //include 'serviziCE.php';
+        include 'serviziCE.php';
     } ?>
 
 

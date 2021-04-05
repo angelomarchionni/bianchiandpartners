@@ -8,5 +8,41 @@
 </style>
 
 <div class="container">
-    <h3>SERVIZI in ceco</h3>
+<div class="jumbotron">
+    <h3>Služby</h3>
+    <ul>
+<div class="row">
+
+<div class="col-lg-4"> <li> <strong>Vedení účetnictví </strong> </div>
+<div class="col-lg-4"> <li> <strong>Asistence při podávání žádosti o úvěry</strong> </div> 
+
+</div>
+<div class="row">
+<div class="col-lg-4"><li>  <strong>Administrativní služby </strong></div>
+<div class="col-lg-4"> <li> <strong>Podnikové posudky </strong><br />  </div>  
+
+</div>
+
+<div class="row">
+<div class="col-lg-4"><li>  <strong>Daňové poradenství</strong> </div>
+<div class="col-lg-4"> <li> <strong>Účetní revize </strong><br />  </div>  
+
+</div>
+
+<div class="row">
+<div class="col-lg-4"><li>  <strong>Podnikové poradenství</strong></div>
+<div class="col-lg-4">  <li><strong>Smluvní poradenství</strong><br />    </div>
+
+</div>
+<div class="row">
+<div class="col-lg-4"> <li> <strong>Plány, procesy a účetní plnění</strong></div>
+<div class="col-lg-4"> <li> <strong>Překlady a tlumočení</strong><br />  </div>  
+
+</div>
+<div class="row">
+<div class="col-lg-4"> <li> <strong>Založení a změny společností</strong></div>
+<div class="col-lg-4">  <strong></strong><br />    </div>
+
+</div>
+</div>
 </div>
