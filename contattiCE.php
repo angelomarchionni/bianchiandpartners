@@ -77,6 +77,10 @@ Poradenské oddělení <br />
           <p>
             <a href="https://goo.gl/maps/ENTe8P9wSzW5s7jNA">kliknutím zobrazíte mapu</a>
           </p>
+          <br>
+          <br>
+          <br>
+          <br>
         </div>
         
       </div>
