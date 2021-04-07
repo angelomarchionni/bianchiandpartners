@@ -28,10 +28,24 @@
   height: auto;
 }
        
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 30px;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+  
+  
+  
+  
+  
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
 
     <a href="/"  class="logo-link"><img src="./immagini/bianchi.jpg" alt="Logo" class="logo-size"></a>
 
@@ -68,14 +82,15 @@
 <div class="jumbotron">
   <h4 class="display-9">Bianchi and Partners</h4>
   <hr class="my-2">
-  <p>Bianchi & Partners consulenza ed assistenza aziendale, tributaria, societaria, del lavoro, legale, fiscale a Praga</p>
+  <p>Bianchi & Partners consulenza ed Assistenza Aziendale, Tributaria, Societaria, del lavoro, legale, fiscale a Praga</p>
   
 </div>
 <picture>
-  <source srcset="./immagini/office_originale_2.png" media="(max-width: 400px)">
-  <source srcset="./immagini/office_originale_2.png">
-  <img src="./immagini/office_originale_2.png" alt="Ufficio">
+  <source srcset="./immagini/office_originale.jpg" media="(max-width: 400px)">
+  <source srcset="./immagini/office_originale.jpg">
+  <img src="./immagini/office_originale.jpg" alt="Ufficio">
 </picture> 
+
 
  <?php 
     }
@@ -91,9 +106,9 @@
   
 </div>
 <picture>
-  <source srcset="./immagini/office_originale_2.png" media="(max-width: 400px)">
-  <source srcset="./immagini/office_originale_2.png">
-  <img src="./immagini/office_originale_2.png" alt="Ufficio">
+<source srcset="./immagini/office_originale.jpg" media="(max-width: 400px)">
+  <source srcset="./immagini/office_originale.jpg">
+  <img src="./immagini/office_originale.jpg" alt="Ufficio">
 </picture> 
     
         
