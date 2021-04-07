@@ -28,14 +28,11 @@
   height: auto;
 }
        
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    padding-top: 30px;
-    
-    margin-right: auto;
-    margin-left: auto;
+.jumbotron {
+    padding: 3rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
 }
   
   
