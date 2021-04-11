@@ -3,6 +3,7 @@
 ?>
 <!doctype html>
 <html lang="it">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -13,6 +14,9 @@
     <title><?php echo $lang['title'] ?></title>
     <link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.min.css">
     <style type="text/css">
+
+
+    
         .footer {
             left: 0;
             position: fixed;
@@ -42,8 +46,8 @@
   
     </style>
 </head>
-<body style="margin-top: 50vh;;padding-bottom:50px">
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+<body style="margin-top: 2vh;margin-bottom: 10vh">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 
     <a href="/"  class="logo-link"><img src="./immagini/bianchi.jpg" alt="Logo" class="logo-size"></a>
 
