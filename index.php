@@ -8,6 +8,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="bianchiandpartners, lavorare in cechia, praga, italia cechia, traduzioni dal ceco">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <title><?php echo $lang['title'] ?></title>
     <link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.min.css">
@@ -35,13 +36,13 @@
     border-radius: .3rem;
 }
   
-  
+ 
   
   
   
     </style>
 </head>
-<body>
+<body style="margin-top: 50vh;;padding-bottom:50px">
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
 
     <a href="/"  class="logo-link"><img src="./immagini/bianchi.jpg" alt="Logo" class="logo-size"></a>
@@ -79,7 +80,7 @@
 <div class="jumbotron">
   <h4 class="display-9">Bianchi and Partners</h4>
   <hr class="my-2">
-  <p>Bianchi & Partners consulenza ed Assistenza Aziendale, Tributaria, Societaria, del lavoro, legale, fiscale a Praga</p>
+  <p>Bianchi & Partners consulenza ed Assistenza Aziendale, tributaria, Societaria, del lavoro, legale, fiscale a Praga</p>
   
 </div>
 <picture>
